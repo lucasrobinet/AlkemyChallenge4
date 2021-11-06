@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj": {}
+    "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\AlkemyChallenge4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\AlkemyChallenge4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\AlkemyChallenge4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj",
         "projectName": "ChallengeAlkemy4",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\AlkemyChallenge4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\ChallengeAlkemy4\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\AlkemyChallenge4\\ChallengeAlkemy4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

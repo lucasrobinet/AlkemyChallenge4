@@ -41,7 +41,7 @@ namespace ChallengeAlkemy4
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ChallengeAlkemy4", Version = "v1" });
             });
 
-            var connection = @"Server=DESKTOP-G6VOI9B\SQLEXPRESS;Database=ABasedeDatos;Trusted_Connection=True;ConnectRetryCount=0;MultipleActiveResultSets=True";
+            var connection = @"Server=Server;Database=ABasedeDatos;Trusted_Connection=True;ConnectRetryCount=0;MultipleActiveResultSets=True";
             services.AddDbContext<MovieContext>(options => options.UseSqlServer(connection));
 
             //services.AddControllers().AddNewtonsoftJson();

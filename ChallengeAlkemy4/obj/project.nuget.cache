@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOLYIr2xjJa6U6v31P295OvK773rE8bhynrKG8+jzhl076Nz727oL2m8NUtSm296JDLgBq+CfuuE6+prJphqVw==",
+  "dgSpecHash": "fa9LyAn3DS4DpEwzi6LYKdyOBPDCDWS4phV8Ejq8AghMAcpypj1fgMkRqQinShMYNk480qbm8if7YlF1k+rlIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\ChallengeAlkemy4\\AlkemyChallenge4\\ChallengeAlkemy4\\ChallengeAlkemy4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\mailkit\\2.6.0\\mailkit.2.6.0.nupkg.sha512",
